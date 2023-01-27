@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-Repositorio prueba Henry
+Prueba de como crear un repositorio
